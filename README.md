@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alta qualid
 
 ## 🚀 Projetos em Destaque
 
-Tenho experiência com análise de dados geoespaciais, educação científica e desenvolvimento web. Veja alguns dos meus principais trabalhos:
+Tenho experiência com análise de dados geoespaciais, educação científica, pesquisa participativa e desenvolvimento web. Veja alguns dos meus principais trabalhos:
 
 ### 🦅 Origem das Aves em Theropoda
 Apresentação interativa sobre evolução aviária combinada com automação Python para processamento de imagens científicas.
@@ -35,6 +35,16 @@ Análise interativa de 10.250+ elementos de infraestrutura com 14 camadas temát
 - **Tecnologias**: Leaflet.js, Plotly.js, Python, IBGE BC25
 - **Demo**: https://infra-sc.onrender.com/
 - [Ver detalhes →](./projects/infra-sc.md) | [GitHub →](https://github.com/caetanoronan/Infra_SC)
+
+### 📋 Cartografia Social Participativa - Maxaranguape
+Pesquisa participativa com documentação acadêmica e materiais estruturados para apresentação.
+- **Tecnologias**: Markdown, Cartografia Social
+- [Ver detalhes →](./projects/cartografia-social-maxaranguape.md) | [GitHub →](https://github.com/caetanoronan/cartografia-social-maxaranguape)
+
+### 📚 Apostila Arrais
+Material educacional digital para formação profissional, publicável via GitHub Pages.
+- **Tecnologias**: HTML5, CSS3, GitHub Pages
+- [Ver detalhes →](./projects/apostila-arrais.md) | [GitHub →](https://github.com/caetanoronan/apostila-arrais)
 
 👉 **[Ver todos os projetos →](./projects/README.md)**
 

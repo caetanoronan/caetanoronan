@@ -18,8 +18,18 @@ Projeto IFSC de pesquisa ambiental usando aerofotogrametria e análise geoespaci
 ### 3. [🗺️ Mapa de Infraestrutura Logística - Santa Catarina](./infra-sc.md)
 Análise completa e interativa de 10.250+ elementos de infraestrutura logística usando dados IBGE. 14 camadas temáticas com 5 gráficos interativos.
 - **Tecnologias**: Leaflet.js, Plotly.js, Python, IBGE BC25
-- **Escala**: 7.900 rodovias, 223 infraestruturas marítimas, 295 municípios
+- **Demo**: https://infra-sc.onrender.com/
 - **Acesso**: https://github.com/caetanoronan/Infra_SC
+
+### 4. [📋 Cartografia Social Participativa - Maxaranguape](./cartografia-social-maxaranguape.md)
+Projeto de pesquisa participativa com documentação acadêmica estruturada e materiais para apresentação visual.
+- **Tecnologias**: Markdown, HTML, Cartografia Social
+- **Acesso**: https://github.com/caetanoronan/cartografia-social-maxaranguape
+
+### 5. [📚 Apostila Arrais](./apostila-arrais.md)
+Material educacional digital para formação profissional, publicável via GitHub Pages com suporte a recursos multimídia.
+- **Tecnologias**: HTML5, CSS3, GitHub Pages
+- **Acesso**: https://github.com/caetanoronan/apostila-arrais
 
 ---
 
