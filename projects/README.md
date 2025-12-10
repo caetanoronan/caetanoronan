@@ -4,18 +4,26 @@ Bem-vindo à coleção dos meus principais projetos! Aqui você encontrará deta
 
 ## 🎯 Meus Projetos
 
-### 1. [Aplicação Web Interativa](./exemplo-1-web-app.md)
-Aplicação full-stack com React, Node.js e PostgreSQL. Demonstra autenticação, CRUD e boas práticas de desenvolvimento.
+### 1. [🦅 Origem das Aves em Theropoda](./origem-aves-theropoda.md)
+Apresentação interativa combinando educação científica com desenvolvimento web. Scripts Python sofisticados para extrair e processar imagens científicas.
+- **Tecnologias**: Reveal.js, Python, HTML5, CSS3
+- **Acesso**: https://github.com/caetanoronan/origem-aves-theropoda
 
-### 2. [Análise de Dados - Dashboard](./exemplo-2-dados.md)
-Dashboard interativo com Python, Pandas e Plotly. Análise e visualização de grandes volumes de dados.
+### 2. [🏖️ Monitoramento Costeiro - Praia dos Ingleses](./monitoramento-costeiro-ingleses.md)
+Projeto IFSC de pesquisa ambiental usando aerofotogrametria e análise geoespacial para monitorar mudanças na orla costeira.
+- **Tecnologias**: Leaflet.js, Python, GeoPackage, GitHub Pages
+- **Demo**: https://caetanoronan.github.io/monitoramento-costeiro-ingleses/
+- **Acesso**: https://github.com/caetanoronan/monitoramento-costeiro-ingleses
 
-### 3. [Aplicativo Mobile](./exemplo-3-mobile.md)
-Aplicação multiplataforma com React Native/Flutter. Experiência em desenvolvimento mobile moderno.
+### 3. [🗺️ Mapa de Infraestrutura Logística - Santa Catarina](./infra-sc.md)
+Análise completa e interativa de 10.250+ elementos de infraestrutura logística usando dados IBGE. 14 camadas temáticas com 5 gráficos interativos.
+- **Tecnologias**: Leaflet.js, Plotly.js, Python, IBGE BC25
+- **Escala**: 7.900 rodovias, 223 infraestruturas marítimas, 295 municípios
+- **Acesso**: https://github.com/caetanoronan/Infra_SC
 
 ---
 
-## 📝 Como Adicionar Seus Projetos
+## 📝 Como Adicionar Novos Projetos
 
 1. **Crie um novo arquivo** em formato `.md` com o nome do seu projeto
 2. **Use o template abaixo** como referência

@@ -17,19 +17,23 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alta qualid
 
 ## 🚀 Projetos em Destaque
 
-Tenho experiência com diversos tipos de projetos. Veja alguns dos principais:
+Tenho experiência com análise de dados geoespaciais, educação científica e desenvolvimento web. Veja alguns dos meus principais trabalhos:
 
-### 💻 Aplicações Web
-- **Aplicação Web Interativa** - Full-stack com React, Node.js e PostgreSQL
-  - [Ver detalhes →](./projects/exemplo-1-web-app.md)
+### 🦅 Origem das Aves em Theropoda
+Apresentação interativa sobre evolução aviária combinada com automação Python para processamento de imagens científicas.
+- **Tecnologias**: Reveal.js, Python, HTML5
+- [Ver detalhes →](./projects/origem-aves-theropoda.md) | [GitHub →](https://github.com/caetanoronan/origem-aves-theropoda)
 
-### 📊 Análise de Dados
-- **Dashboard Interativo** - Visualização e análise de dados com Python
-  - [Ver detalhes →](./projects/exemplo-2-dados.md)
+### 🏖️ Monitoramento Costeiro - Praia dos Ingleses
+Projeto IFSC de pesquisa ambiental usando geoprocessamento para monitorar mudanças na orla costeira.
+- **Tecnologias**: Leaflet.js, Python, GeoPackage, GitHub Pages
+- **Demo**: https://caetanoronan.github.io/monitoramento-costeiro-ingleses/
+- [Ver detalhes →](./projects/monitoramento-costeiro-ingleses.md) | [GitHub →](https://github.com/caetanoronan/monitoramento-costeiro-ingleses)
 
-### 📱 Aplicações Mobile
-- **Aplicativo Mobile** - Desenvolvimento multiplataforma
-  - [Ver detalhes →](./projects/exemplo-3-mobile.md)
+### 🗺️ Mapa de Infraestrutura Logística - Santa Catarina
+Análise interativa de 10.250+ elementos de infraestrutura com 14 camadas temáticas e 5 gráficos Plotly.
+- **Tecnologias**: Leaflet.js, Plotly.js, Python, IBGE BC25
+- [Ver detalhes →](./projects/infra-sc.md) | [GitHub →](https://github.com/caetanoronan/Infra_SC)
 
 👉 **[Ver todos os projetos →](./projects/README.md)**
 
