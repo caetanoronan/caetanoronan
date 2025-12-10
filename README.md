@@ -43,10 +43,24 @@ Pesquisa participativa com documentação acadêmica e materiais estruturados pa
 
 ### 📚 Apostila Arrais
 Material educacional digital para formação profissional, publicável via GitHub Pages.
-- **Tecnologias**: HTML5, CSS3, GitHub Pages
-- [Ver detalhes →](./projects/apostila-arrais.md) | [GitHub →](https://github.com/caetanoronan/apostila-arrais)
 
 👉 **[Ver todos os projetos →](./projects/README.md)**
+### 🗺️ Mapa PELD - Santa Catarina
+Visualização interativa da rede de pesquisa ecológica com 33 parcelas validadas.
+- **Tecnologias**: Folium, Leaflet.js, Python, GeoJSON
+- [Ver detalhes →](./projects/mapa-peld-santa-catarina.md) | [GitHub →](https://github.com/caetanoronan/mapa-peld-santa-catarina)
+
+### 🚁 Geomarketing Drones Agrícolas - SC
+Análise de mercado geoespacial para 295 municípios, identificando potencial para drones agrícolas.
+- **Tecnologias**: Python, Folium, IBGE SIDRA
+- **Demo**: https://caetanoronan.github.io/geomarketing-drones-sc/
+- [Ver detalhes →](./projects/geomarketing-drones-sc.md) | [GitHub →](https://github.com/caetanoronan/geomarketing-drones-sc)
+
+### 🌊 Análise de Resíduos Sólidos - SC
+Análise geoespacial em 16.831 setores censitários com design acessível para daltonismo.
+- **Tecnologias**: Python, GeoPandas, Folium
+- **Demo**: https://caetanoronan.github.io/portfolio-residuos-sc/
+- [Ver detalhes →](./projects/portfolio-residuos-sc.md) | [GitHub →](https://github.com/caetanoronan/portfolio-residuos-sc)
 
 ## 📚 Educação
 
