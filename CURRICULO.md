@@ -28,10 +28,20 @@
 
 ## 🎓 Educação
 
-### [Seu Curso] 
-**Instituição**: [UFSC / Universidade]  
+### Bacharelado em Ciências Biológicas
+**Instituição**: UFSC (Universidade Federal de Santa Catarina)  
 **Período**: [Ano de início] - [Ano de conclusão / em andamento]  
-**GPA/Desempenho**: [Se aplicável]
+**Status**: [Completo / Em andamento]
+
+### Técnico em Geoprocessamento
+**Instituição**: IFSC (Instituto Federal de Santa Catarina)  
+**Período**: [Ano de conclusão]  
+**Área**: Sensoriamento remoto, SIG, cartografia digital
+
+### Técnico em Saneamento
+**Instituição**: IFSC (Instituto Federal de Santa Catarina)  
+**Período**: [Ano de conclusão]  
+**Área**: Tratamento de água, esgoto e gestão ambiental
 
 ---
 

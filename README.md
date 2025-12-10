@@ -35,7 +35,9 @@ Tenho experiência com diversos tipos de projetos. Veja alguns dos principais:
 
 ## 📚 Educação
 
-- **Graduação**: [Seu curso] - [Universidade] ([Ano])
+- **Bacharelado em Ciências Biológicas** - UFSC
+- **Técnico em Geoprocessamento** - IFSC
+- **Técnico em Saneamento** - IFSC
 
 ## 📞 Contato
 
