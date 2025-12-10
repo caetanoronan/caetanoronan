@@ -33,6 +33,7 @@ Projeto IFSC de pesquisa ambiental usando geoprocessamento para monitorar mudan�
 ### 🗺️ Mapa de Infraestrutura Logística - Santa Catarina
 Análise interativa de 10.250+ elementos de infraestrutura com 14 camadas temáticas e 5 gráficos Plotly.
 - **Tecnologias**: Leaflet.js, Plotly.js, Python, IBGE BC25
+- **Demo**: https://infra-sc.onrender.com/
 - [Ver detalhes →](./projects/infra-sc.md) | [GitHub →](https://github.com/caetanoronan/Infra_SC)
 
 👉 **[Ver todos os projetos →](./projects/README.md)**

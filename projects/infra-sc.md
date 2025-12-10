@@ -52,7 +52,7 @@ Criar uma plataforma visual e analítica que permita explorar e analisar a compl
 
 ## 🔗 Links
 - **Repositório**: https://github.com/caetanoronan/Infra_SC
-- **Mapa Interativo**: [Link do mapa, se publicado]
+- **Mapa Interativo**: https://infra-sc.onrender.com/
 - **Relatório**: [Link do relatório, se publicado]
 
 ---
