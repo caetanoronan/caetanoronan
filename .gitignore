@@ -1,0 +1,45 @@
+# .gitignore
+
+# Dependências
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build
+dist/
+build/
+.next/
+
+# Arquivos temporários
+temp/
+tmp/
+*.tmp
+
+# Arquivos sensíveis
+*.pem
+*.key
+credentials.json
