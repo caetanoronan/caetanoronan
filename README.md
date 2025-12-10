@@ -15,17 +15,23 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alta qualid
 - **Ferramentas**: [Git, Docker, VSCode, etc.]
 - **Bases de Dados**: [MySQL, PostgreSQL, MongoDB, etc.]
 
-## 📁 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### Projeto 1: [Nome do Projeto]
-- **Descrição**: [Breve descrição]
-- **Tecnologias**: JavaScript, React, Node.js
-- **Link**: [Link para o repositório ou demo]
+Tenho experiência com diversos tipos de projetos. Veja alguns dos principais:
 
-### Projeto 2: [Nome do Projeto]
-- **Descrição**: [Breve descrição]
-- **Tecnologias**: Python, Django
-- **Link**: [Link para o repositório ou demo]
+### 💻 Aplicações Web
+- **Aplicação Web Interativa** - Full-stack com React, Node.js e PostgreSQL
+  - [Ver detalhes →](./projects/exemplo-1-web-app.md)
+
+### 📊 Análise de Dados
+- **Dashboard Interativo** - Visualização e análise de dados com Python
+  - [Ver detalhes →](./projects/exemplo-2-dados.md)
+
+### 📱 Aplicações Mobile
+- **Aplicativo Mobile** - Desenvolvimento multiplataforma
+  - [Ver detalhes →](./projects/exemplo-3-mobile.md)
+
+👉 **[Ver todos os projetos →](./projects/README.md)**
 
 ## 📚 Educação
 
@@ -37,6 +43,11 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alta qualid
 - **LinkedIn**: [Seu LinkedIn]
 - **GitHub**: https://github.com/caetanoronan
 - **Portfólio**: [Seu site pessoal se houver]
+
+## 📄 Documentos
+
+- [📋 Currículo Completo](./CURRICULO.md)
+- [📁 Estrutura do Portfólio](./ESTRUTURA.md)
 
 ---
 
