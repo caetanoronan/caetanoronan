@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e de alta qualid
 
 ## 📋 Sobre Mim
 
-[Adicione uma descrição sobre você, sua formação e interesses profissionais]
+Sou Caetano Ronan, profissional formado em Ciências Biológicas (UFSC) com formação técnica em Geoprocessamento e Saneamento (IFSC). Atuo em projetos de análise de dados geoespaciais, monitoramento ambiental e visualização interativa — unindo Python, GIS e desenvolvimento web para transformar dados em decisões. Tenho experiência em mapeamentos (PELD, infraestrutura logística, resíduos sólidos), dashboards web (Leaflet/Folium/Plotly) e pipelines de automação com foco em ciência aplicada e impacto socioambiental.
 
 ## 🛠️ Habilidades Técnicas
 
