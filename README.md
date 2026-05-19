@@ -20,9 +20,10 @@ Sou Caetano Ronan, profissional formado em Ciências Biológicas pela UFSC e com
 Tenho desenvolvido projetos em quatro frentes principais: geotecnologias, ciência ambiental, educação interativa e comunicação científica.
 
 ### 🌿 Plataforma Hub LAFIC/UFSC
-Hub digital para integrar biodiversidade marinha, protocolos de campo, sensoriamento remoto, ciência aberta e gestão costeira.
+Ecossistema digital integrado para pesquisa e gestão costeira. Portal central com **14 produtos em 4 categorias**: apps de campo, biodiversidade marinha, tecnologias de sensoriamento e gestão institucional.
 - **Tecnologias**: HTML, conteúdo acadêmico estruturado, publicação web
 - **Demo**: https://caetanoronan.github.io/projeto-hub/
+- **Índice detalhado**: [Ver todos os 14 produtos →](./projects/hub-lafic-ufsc.md)
 - **GitHub**: https://github.com/caetanoronan/projeto-hub
 
 ### 💧 HydroColor

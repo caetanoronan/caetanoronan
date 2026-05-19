@@ -4,11 +4,11 @@ Este índice reúne os projetos mais relevantes do portfólio, organizados por t
 
 ## 🌿 Ciência, ambiente e território
 
-### [🌿 Plataforma Hub LAFIC/UFSC](https://caetanoronan.github.io/projeto-hub/)
-Hub digital para integrar biodiversidade marinha, protocolos de campo, sensoriamento remoto, ciência aberta e gestão costeira.
-- **Tecnologias**: HTML, conteúdo acadêmico estruturado, publicação web
-- **Demo**: https://caetanoronan.github.io/projeto-hub/
-- **Acesso**: https://github.com/caetanoronan/projeto-hub
+### [🌿 Plataforma Hub LAFIC/UFSC](./hub-lafic-ufsc.md)
+Ecossistema digital integrado para pesquisa e gestão costeira com **14 produtos integrados**: apps de campo, biodiversidade marinha, sensoriamento remoto, protocolos operacionais e gestão institucional.
+- **Demo ao vivo**: https://caetanoronan.github.io/projeto-hub/
+- **Índice estruturado dos produtos**: [Ver detalhes →](./hub-lafic-ufsc.md)
+- **GitHub**: https://github.com/caetanoronan/projeto-hub
 
 ### [🦅 Origem das Aves em Theropoda](./origem-aves-theropoda.md)
 Apresentação interativa sobre a origem evolutiva das aves com automação Python para processamento de imagens científicas.
