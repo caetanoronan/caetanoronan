@@ -1,8 +1,8 @@
-# Caetano Ronan - Currículo
+# Ronan Armando Caetano - Currículo
 
 ## 📋 Informações Pessoais
 
-**Nome**: Caetano Ronan  
+**Nome**: Ronan Armando Caetano  
 **Email**: caetanoronan@email.com  
 **Localização**: Florianópolis, Santa Catarina  
 **GitHub**: https://github.com/caetanoronan  
