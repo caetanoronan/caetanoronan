@@ -4,6 +4,8 @@ Bem-vindo ao meu portfólio! 👋
 
 Sou um profissional que conecta ciência, território e desenvolvimento web. Meu trabalho integra formação em Ciências Biológicas e especialização em Geotecnologias para criar produtos digitais, visualizações interativas e plataformas de pesquisa. Aqui você encontrará meus projetos, ecossistemas integrados e habilidades técnicas.
 
+🌐 **Versão HTML do currículo/portfólio**: [abrir página](./index.html)
+
 ## 📋 Sobre Mim
 
 Sou Ronan Armando Caetano, profissional formado em Ciências Biológicas pela UFSC e com formação técnica em Geoprocessamento e Saneamento pelo IFSC. Atuo em projetos de análise de dados geoespaciais, monitoramento ambiental e visualização interativa, conectando ciência, território e desenvolvimento web para transformar dados em decisões. Meu trabalho foca automação com Python e produtos digitais para pesquisa, educação e gestão ambiental.

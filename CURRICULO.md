@@ -42,7 +42,7 @@ Tenho experiência prática em mapeamentos temáticos, visualização de dados, 
 
 **Programa**: PPGOceano - Programa de Pós-Graduação em Oceanografia  
 **Instituição**: Universidade Federal de Santa Catarina (UFSC)  
-**Período**: 2024 - 2026 (em andamento)
+**Período**: 2026 - 2028 (em andamento)
 
 **Mensagem-chave**: Evidências espaciais para monitoramento e conservação de habitats insulares.
 
