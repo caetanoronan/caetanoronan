@@ -85,7 +85,9 @@ Leitura geoespacial da geração de resíduos com foco em acessibilidade visual.
 
 ## 📄 Documentos
 
-- [📋 Currículo Completo](./CURRICULO.md)
+- [📋 Currículo Completo](./CURRICULO.md) — versão detalhada
+- [📊 Currículo Executivo](./CURRICULO-EXECUTIVO.md) — versão compacta
+- [📄 Currículo para PDF](./CURRICULO-PDF.md) — versão pronta para impressão
 - [📁 Estrutura do Portfólio](./ESTRUTURA.md)
 
 ---

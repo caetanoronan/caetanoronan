@@ -4,90 +4,99 @@
 
 **Nome**: Caetano Ronan  
 **Email**: caetanoronan@email.com  
-**Localização**: [Sua cidade, Estado]  
+**Localização**: Florianópolis, Santa Catarina  
 **GitHub**: https://github.com/caetanoronan  
-**LinkedIn**: [Seu perfil LinkedIn]
+**Portfólio**: https://github.com/caetanoronan/caetanoronan
 
 ---
 
-## 💼 Experiência Profissional
+## 👤 Resumo Profissional
 
-### [Cargo] - [Empresa]
-**Período**: [Mês/Ano] - [Mês/Ano]
+Formado em Ciências Biológicas pela UFSC e com formação técnica em Geoprocessamento e Saneamento pelo IFSC. Atuo na criação de produtos digitais e visuais para ciência, educação e gestão territorial, com foco em geotecnologias, automação com Python e publicações web interativas.
 
-- Descrição da responsabilidade 1
-- Descrição da responsabilidade 2
-- Descrição da responsabilidade 3
-
-### [Cargo] - [Empresa]
-**Período**: [Mês/Ano] - [Mês/Ano]
-
-- Descrição da responsabilidade 1
+Tenho experiência prática em mapeamentos temáticos, visualização de dados, organização de conteúdo técnico-científico e desenvolvimento de apresentações e hubs web voltados a pesquisa e divulgação.
 
 ---
 
 ## 🎓 Educação
 
 ### Bacharelado em Ciências Biológicas
-**Instituição**: UFSC (Universidade Federal de Santa Catarina)  
-**Período**: [Ano de início] - [Ano de conclusão / em andamento]  
-**Status**: [Completo / Em andamento]
+**Instituição**: Universidade Federal de Santa Catarina (UFSC)  
+**Período**: 2018 - 2025
 
 ### Técnico em Geoprocessamento
-**Instituição**: IFSC (Instituto Federal de Santa Catarina)  
-**Período**: [Ano de conclusão]  
+**Instituição**: Instituto Federal de Santa Catarina (IFSC)  
+**Período**: 2024 - 2025  
 **Área**: Sensoriamento remoto, SIG, cartografia digital
 
 ### Técnico em Saneamento
-**Instituição**: IFSC (Instituto Federal de Santa Catarina)  
-**Período**: [Ano de conclusão]  
+**Instituição**: Instituto Federal de Santa Catarina (IFSC)  
+**Período**: 2022 - 2023  
 **Área**: Tratamento de água, esgoto e gestão ambiental
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Competências Técnicas
 
-### Linguagens de Programação
-- JavaScript / TypeScript
+### Linguagens e Marcação
 - Python
-- [Outras]
+- JavaScript
+- HTML
+- CSS
+- Markdown
 
-### Frameworks & Bibliotecas
-- React
-- Node.js
-- [Outros]
+### Geotecnologias e Visualização
+- SIG
+- Leaflet
+- Folium
+- Plotly
+- D3.js
+- GeoJSON
+- GeoPackage
 
-### Ferramentas & Tecnologias
-- Git / GitHub
-- Docker
-- [Outras]
-
-### Bases de Dados
-- PostgreSQL
-- MongoDB
-- [Outras]
-
----
-
-## 📚 Certificações & Cursos
-
-- [Nome do Certificado] - [Instituição] ([Ano])
-- [Nome do Certificado] - [Instituição] ([Ano])
+### Ferramentas e Fluxos de Trabalho
+- Git
+- GitHub
+- GitHub Pages
+- Jupyter Notebooks
+- Processamento de PDFs e imagens
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- **[Nome do Projeto]** - [Breve descrição] - [Link]
-- **[Nome do Projeto]** - [Breve descrição] - [Link]
+### Plataforma Hub LAFIC/UFSC
+Hub digital para integrar biodiversidade marinha, protocolos de campo, sensoriamento remoto, ciência aberta e gestão costeira.
+https://caetanoronan.github.io/projeto-hub/
+
+### Origem das Aves em Theropoda
+Apresentação interativa sobre evolução aviária com automação Python para extração de imagens científicas.
+https://github.com/caetanoronan/origem-aves-theropoda
+
+### Mapa de Infraestrutura Logística - Santa Catarina
+Análise interativa de infraestrutura com camadas temáticas e visualizações de apoio à leitura territorial.
+https://github.com/caetanoronan/Infra_SC
+
+### Monitoramento Costeiro - Praia dos Ingleses
+Projeto de pesquisa ambiental para acompanhar mudanças na orla costeira.
+https://github.com/caetanoronan/monitoramento-costeiro-ingleses
+
+### Geomarketing Drones Agrícolas - SC
+Análise de mercado geoespacial para drones agrícolas em Santa Catarina.
+https://github.com/caetanoronan/geomarketing-drones-sc
+
+### Análise de Resíduos Sólidos - SC
+Leitura geoespacial da geração de resíduos com foco em acessibilidade visual.
+https://github.com/caetanoronan/portfolio-residuos-sc
 
 ---
 
 ## 🌟 Destaques
 
-- [Conquista ou destaque profissional]
-- [Conquista ou destaque profissional]
+- Integração de ciência, território e desenvolvimento web em produtos autorais.
+- Experiência com comunicação técnica e visualização interativa de dados geoespaciais.
+- Produção de materiais digitais para pesquisa, educação e divulgação científica.
 
 ---
 
-**Última atualização**: Dezembro de 2025
+**Última atualização**: Maio de 2026
