@@ -64,9 +64,11 @@ Material educacional digital para formação profissional, com potencial de publ
 Apresentação interativa sobre o método HydroColor para monitoramento da qualidade da água.
 - **Tecnologias**: HTML, apresentação web
 
-### [🎵 Musical Learning Hub](https://github.com/caetanoronan/musical-learning-hub)
-Hub educacional de teoria musical com navegação integrada entre módulos.
-- **Tecnologias**: HTML, Web Audio, PWA
+### [🍥 Musical Learning Hub](./musical-learning-hub.md)
+Ecossistema integrado de aprendizagem musical com **4 produtos**: Teoria Desvendada, Cartografia da Partitura, Piano e Teclado, e Trombone Map. Trilha pedagógica contínua com fluxo de estudo estruturado.
+- **Demo ao vivo**: https://caetanoronan.github.io/musical-learning-hub/
+- **Índice estruturado dos produtos**: [Ver detalhes →](./musical-learning-hub.md)
+- **GitHub**: https://github.com/caetanoronan/musical-learning-hub
 
 ### [🎹 Piano e Teclado](https://github.com/caetanoronan/piano-e-teclado)
 Mapa-base de piano e teclado com escalas, acordes e prática guiada.

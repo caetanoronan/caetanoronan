@@ -32,8 +32,10 @@ Apresentação interativa sobre o método HydroColor para monitoramento da quali
 - **GitHub**: https://github.com/caetanoronan/Hydro_color
 
 ### 🎵 Musical Learning Hub
-Hub educacional com navegação integrada entre teoria musical, piano/teclado e trombone, com apoio offline.
-- **Tecnologias**: HTML, Web Audio, PWA, conteúdo educacional
+Ecossistema integrado de aprendizagem musical com **4 produtos**: Teoria Desvendada, Cartografia da Partitura, Piano e Teclado, e Trombone Map. Trilha pedagógica contínua com Web Audio, quiz interativo, gamificação e offline.
+- **Tecnologias**: HTML5, Web Audio API, SVG interativo, PWA
+- **Demo**: https://caetanoronan.github.io/musical-learning-hub/
+- **Índice detalhado**: [Ver todos os 4 produtos →](./projects/musical-learning-hub.md)
 - **GitHub**: https://github.com/caetanoronan/musical-learning-hub
 
 ### 🦅 Origem das Aves em Theropoda
