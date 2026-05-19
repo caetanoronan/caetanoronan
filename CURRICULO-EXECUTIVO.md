@@ -26,6 +26,15 @@ Especialista em produtos digitais para ciência e gestão territorial. Combina f
 
 ---
 
+## 🌍 Mestrado em Oceanografia
+
+**Distribuição e Modelagem de Habitat de Macrófitas Marinhas** — Ilhas Costeiras de SC no Contexto da Crise Climática  
+PPGOceano/UFSC | 2024–2026
+
+**Mensagem-chave**: Evidências espaciais para monitoramento e conservação de habitats insulares.
+
+---
+
 ## Projetos em Destaque
 
 | Projeto | Descrição | Link |

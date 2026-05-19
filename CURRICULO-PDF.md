@@ -36,6 +36,20 @@ Período: 2022 – 2023
 
 ---
 
+## Projeto de Mestrado em Andamento
+
+**Título**: Distribuição e Modelagem de Habitat de Macrófitas Marinhas — Ilhas Costeiras de Santa Catarina no Contexto da Crise Climática
+
+| Campo | Informação |
+|-------|-----|
+| **Programa** | PPGOceano - Programa de Pós-Graduação em Oceanografia |
+| **Instituição** | Universidade Federal de Santa Catarina (UFSC) |
+| **Período** | 2024 – 2026 (em andamento) |
+| **Mensagem-chave** | Evidências espaciais para monitoramento e conservação de habitats insulares |
+| **Área de Foco** | Modelagem de habitat, biodiversidade marinha, monitoramento costeiro, mudanças climáticas |
+
+---
+
 ## Competências Técnicas
 
 ### Linguagens de Programação e Marcação

@@ -36,6 +36,20 @@ Tenho experiência prática em mapeamentos temáticos, visualização de dados, 
 
 ---
 
+## 🌍 Projeto de Mestrado
+
+**Título**: Distribuição e Modelagem de Habitat de Macrófitas Marinhas - Ilhas Costeiras de Santa Catarina no Contexto da Crise Climática
+
+**Programa**: PPGOceano - Programa de Pós-Graduação em Oceanografia  
+**Instituição**: Universidade Federal de Santa Catarina (UFSC)  
+**Período**: 2024 - 2026 (em andamento)
+
+**Mensagem-chave**: Evidências espaciais para monitoramento e conservação de habitats insulares.
+
+**Foco**: Modelagem de habitat, biodiversidade marinha, monitoramento costeiro, mudanças climáticas, geoprocessamento e ciência aberta.
+
+---
+
 ## 🛠️ Competências Técnicas
 
 ### Linguagens e Marcação
